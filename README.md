@@ -1,4 +1,4 @@
-#compare_symbols
+# compare_symbols
 
 compare_symbols.py python 3 application that find similar numbers in lines in file
 

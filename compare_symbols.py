@@ -3,7 +3,6 @@
 
 def compare_func():
 
-	list_numbers = []
 	dict_seen = {} 
 	result = {}
 	with open("file_numbers") as file:
